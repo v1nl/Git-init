@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Witam Pana"
+echo "Witam Pana, bez lipy"
 touch "newfile"
